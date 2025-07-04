@@ -25,12 +25,22 @@ And the mome raths outgrabe.
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
   
+<<<<<<< HEAD
 When I go up through the mowing field,  
 The headless aftermath,  
 Smooth-laid like thatch with the heavy   dew,  
 Half closes the garden path.  
 And when I come to the garden ground,  
   
+=======
+When I go up through the mowing field,    
+The headless aftermath,  
+Smooth-laid like thatch with the heavy   dew,   
+Half closes the garden path.      
+And when I come to the garden ground,    
+   
+
+>>>>>>> verse2
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
   
